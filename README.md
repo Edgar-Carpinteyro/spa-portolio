@@ -1,9 +1,50 @@
-# React + Vite
+# README
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. About
 
-Currently, two official plugins are available:
+The project is a personal portfolio that highlights my qualifications as a web developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# spa-portolio
+## 2. Technologies
+
+The project utilizes the following technologies:
+
+- JavaScript
+- React
+- React-Router-Dom
+- SPA principles
+- Vite
+
+## 3. Getting Started
+
+To get started with the project, follow the steps below:
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Edgar-Carpinteyro/spa-portolio.git
+cd your-project
+```
+
+
+## 4. Installation
+
+### Set Up Vite
+
+Ensure that you create a Vite project. 
+```bash
+npm create vite@latest
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start the Application
+
+```bash
+npm start
+```
+
+Open the link in your web browser.
