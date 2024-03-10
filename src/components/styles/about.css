@@ -1,0 +1,82 @@
+/* About Me Section */
+#about-me-section{
+  /* background-color: rgb(19, 13, 13); */
+  background-image: linear-gradient(
+    288deg,
+    rgba(0, 85, 255, 1) 1.5%,
+    rgba(4, 56, 115, 1) 91.6%
+  );
+  height: 500px;
+  width: 100%;
+  color: aliceblue;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+/* #biography{
+  background-color: rgba(46, 110, 247, 0.687);
+} */
+
+/* Skills */
+#section2 {
+    background-color: rgb(170, 211, 247);
+    height: 500px;
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  
+  .progressbar {
+    margin-top: 20px;
+  }
+  
+  /* Experience */
+  #section3 {
+    background-color: rgb(19, 13, 13);
+    height: 600px;
+    width: 100%;
+    color: aliceblue;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  
+  #job-border {
+    border: #ffc70a double 5px;
+  }
+  
+  .job-border-bottom {
+    border-bottom: #ffc70a double 5px;
+  }
+  
+  .job-container {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .job-logo,
+  .job-title,
+  .job-date {
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  /* Education */
+  #section4 {
+    background-color: rgb(170, 211, 247);
+    height: 600px;
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  
+  .education-container > .column {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  .green {
+    background-color: green;
+  }
+  

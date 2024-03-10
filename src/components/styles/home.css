@@ -1,0 +1,31 @@
+/* Header */
+#header {
+    background-image: url("/images/header/ucla_campus.webp");
+    background-size: cover;
+    height: 750px;
+    width: 100%;
+    color: aliceblue;
+  }
+  
+  #ec-intro {
+    background-color: rgba(46, 110, 247, 0.687);
+  }
+  
+  h1-h6 {
+    font-family: "Poppins", sans-serif;
+  }
+  
+  /* Mission */
+  #mission-section {
+    /* background-image: linear-gradient(to top, #96fbc4 0%, #f9f586 100%); */
+    background-image: linear-gradient(
+    288deg,
+    rgba(0, 85, 255, 1) 1.5%,
+    rgba(4, 56, 115, 1) 91.6%
+  );
+    height: 500px;
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: aliceblue;
+  }  
