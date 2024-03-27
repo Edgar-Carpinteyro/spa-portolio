@@ -186,7 +186,7 @@ const About = () => {
                       </div>
                       <div>
                         <h5>The Knowledge House</h5>
-                        <span class="d-block mb-3">Web Development</span>
+                        <span className="d-block mb-3">Web Development</span>
                         <span>September 2023 - Present</span>
                       </div>
                     </div>
