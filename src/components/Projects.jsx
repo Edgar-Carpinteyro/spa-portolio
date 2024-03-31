@@ -68,7 +68,21 @@ const MyProjects = () => {
                     </div>
                   </div>
 
-                 
+                  <div className="card text-bg-dark mb-3 project-image">
+                    <img
+                      src="/images/projects/github-app.png"
+                      className="card-img-top"
+                      alt="..."
+                      height="150px"
+                    />
+                    <div className="card-body">
+                      <h5 className="card-title">Github Fullstack App</h5>
+                      <a href="https://github-fullstack-app.onrender.com/" 
+                      className="btn btn-primary">
+                        Explore
+                      </a>
+                    </div>
+                  </div>
 
                   <div className="card text-bg-dark mb-3 project-image" >
                     <img
@@ -83,21 +97,6 @@ const MyProjects = () => {
                         href="https://edgar-carpinteyro.github.io/new-teacher-center/"
                         className="btn btn-primary"
                       >
-                        Explore
-                      </a>
-                    </div>
-                  </div>
-
-                  <div className="card text-bg-dark mb-3 project-image">
-                    <img
-                      src="/images/projects/dogs.jpg"
-                      className="card-img-top"
-                      alt="..."
-                      height="150px"
-                    />
-                    <div className="card-body">
-                      <h5 className="card-title">Under Construction</h5>
-                      <a href="#" className="btn btn-primary">
                         Explore
                       </a>
                     </div>

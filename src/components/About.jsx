@@ -15,7 +15,7 @@ const About = () => {
 
               <div className="col-md-9"  id="biography">
                 <p className="lead">
-                Welcome to my digital space! I am Edgar, a dedicated educator turned aspiring web developer. With a strong foundation in teaching and a passion for empowering others, I've embarked on a transformative journey into the dynamic world of web development. 
+                Welcome to my digital space! I am Edgar, a dedicated educator turned web developer. With a strong foundation in teaching and a passion for empowering others, I've embarked on a journey into the dynamic world of web development. 
                 <br/> 
                 <br />
                 My background in education has equipped me with excellent communication skills, a knack for problem-solving, and the ability to adapt to diverse learning environments. Now, as I transition into web development, I bring these qualities to the forefront, pairing them with a newfound enthusiasm for coding, design, and creating seamless digital experiences.
