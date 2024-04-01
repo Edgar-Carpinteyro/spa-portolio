@@ -104,14 +104,14 @@ const MyProjects = () => {
 
                   <div className="card text-bg-dark mb-3 project-image">
                     <img
-                      src="/images/projects/comedy.jpg"
+                      src="/images/projects/grade-average.png"
                       className="card-img-top"
                       alt="..."
                       height="150px"
                     />
                     <div className="card-body">
-                      <h5 className="card-title">Under Construction</h5>
-                      <a href="#" className="btn btn-primary">
+                      <h5 className="card-title">Grade Average App</h5>
+                      <a href="https://edgar-carpinteyro.github.io/class-grade-average-app/" className="btn btn-primary">
                         Explore
                       </a>
                     </div>
